@@ -1,2 +1,2 @@
-# geolocator
-IP address geolocator written in Rust.
+# geolocator 🦀
+### IP address geolocator written in Rust.
